@@ -21,7 +21,7 @@ Tired of searching for your favorite websites every time? MY BOOKMARKS is a ligh
 
 1.Clone the repository
 
-git clone https://github.com/yourusername/my-bookmarks.git
+git clone https://github.com/KeerthiAnnapaneni/my_bookmarks.git
 
 2.Open the file in your preferred browser:
 
